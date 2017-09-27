@@ -215,4 +215,10 @@
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
 
+    <!-- Colt Updater -->
+    <string name="update_settings_title">Colt Updater</string>
+    <string name="update_settings_summary">Check for the latest version of the rom</string>
+    <string name="update_package" translatable="false">com.colt.updater</string>
+    <string name="update_activity" translatable="false">com.colt.updater.UpdatesActivity</string>
+
 </resources>
